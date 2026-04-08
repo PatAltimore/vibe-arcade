@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Neon Pong",
+    "summary": "A glowing neon twist on the classic Pong game, built with HTML5 Canvas. Challenge the AI or a friend in this retro arcade favorite with dazzling visual effects.",
+    "url": "https://example.com/neon-pong",
+    "screenshot": "https://placehold.co/600x400/0a0a2e/00ffff?text=NEON+PONG&font=monospace",
+    "repo": "https://github.com/example/neon-pong"
+  },
+  {
+    "title": "Pixel Invaders",
+    "summary": "Defend the Earth from waves of pixelated alien invaders in this love letter to classic space shooters. Features progressive difficulty and power-ups.",
+    "url": "https://example.com/pixel-invaders",
+    "screenshot": "https://placehold.co/600x400/0a0a2e/ff00ff?text=PIXEL+INVADERS&font=monospace",
+    "repo": "https://github.com/example/pixel-invaders"
+  },
+  {
+    "title": "Retro Racer",
+    "summary": "Race through neon-lit highways at breakneck speed. Dodge traffic, collect power-ups, and try to beat your high score in this endless racer.",
+    "url": "https://example.com/retro-racer",
+    "screenshot": "https://placehold.co/600x400/0a0a2e/ffff00?text=RETRO+RACER&font=monospace",
+    "repo": "https://github.com/example/retro-racer"
+  },
+  {
+    "title": "Synth Maze",
+    "summary": "Navigate procedurally generated mazes while collecting synth crystals. Each level is uniquely generated and the soundtrack evolves as you progress deeper.",
+    "url": "https://example.com/synth-maze",
+    "screenshot": "https://placehold.co/600x400/0a0a2e/ff6600?text=SYNTH+MAZE&font=monospace",
+    "repo": "https://github.com/example/synth-maze"
+  },
+  {
+    "title": "Laser Blaster",
+    "summary": "A fast-paced twin-stick shooter where you blast through hordes of geometric enemies. Features combo multipliers and an electrifying synthesizer soundtrack.",
+    "url": "https://example.com/laser-blaster",
+    "screenshot": "https://placehold.co/600x400/0a0a2e/00ff88?text=LASER+BLASTER&font=monospace",
+    "repo": "https://github.com/example/laser-blaster"
+  },
+  {
+    "title": "Grid Runner",
+    "summary": "Inspired by Tron's light cycles, race across a grid leaving walls behind you. Trap your opponents while surviving as long as possible on the glowing arena.",
+    "url": "https://example.com/grid-runner",
+    "screenshot": "https://placehold.co/600x400/0a0a2e/ff0088?text=GRID+RUNNER&font=monospace",
+    "repo": "https://github.com/example/grid-runner"
+  }
+]

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Vibe Arcade — A curated list of vibe-coded games and apps with an 80s arcade twist." />
+
+  <title>VIBE ARCADE</title>
+
+  <!-- Favicon: simple neon joystick emoji fallback -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🕹️</text></svg>" />
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ========== HEADER ========== -->
+  <header class="site-header">
+    <div class="logo-container">
+      <span class="site-title">🕹 VIBE ARCADE</span>
+      <span class="site-subtitle">★ VIBE-CODED GAMES &amp; APPS ★</span>
+      <p class="insert-coin">— INSERT COIN TO CONTINUE —</p>
+    </div>
+  </header>
+
+  <!-- Decorative perspective grid -->
+  <div class="grid-floor" aria-hidden="true"></div>
+
+  <!-- ========== MAIN ========== -->
+  <main class="site-main">
+
+    <div class="section-header">
+      <h1 class="section-title">▍ GAME SELECT</h1>
+      <div class="section-line" aria-hidden="true"></div>
+      <span class="game-count" id="game-count">LOADING...</span>
+    </div>
+
+    <!-- Cards are injected here by app.js -->
+    <div id="cards-container">
+      <div class="loading" role="status" aria-live="polite">
+        <span>LOADING GAMES</span>
+        <div class="loading-bar" aria-hidden="true"></div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- ========== FOOTER ========== -->
+  <footer class="site-footer">
+    <p>VIBE ARCADE &mdash; All games are vibe-coded with ❤️</p>
+    <p class="footer-score">HI-SCORE: ∞ &nbsp;|&nbsp; PLAYER 1</p>
+  </footer>
+
+  <!-- App Script -->
+  <script src="app.js"></script>
+
+</body>
+</html>
