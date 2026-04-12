@@ -8,16 +8,23 @@
   },
   {
     "title": "Group Text Adventure",
-    "summary": "A collaborative text-based adventure game where players can solve puzzles and progress through the story together.",
+    "summary": "A collaborative text-based adventure game where you and your friends can solve puzzles and progress through the story together.",
     "url": "https://textgtagame.z5.web.core.windows.net/",
     "screenshot": "./screenshots/group-text-adventure.png",
     "repo": "https://github.com/PatAltimore/group-text-adventure"
   },
   {
-      "title": "Titan Mining Simulator",
-    "summary": "A mining simulation game where players can explore and extract resources from Saturn's moon Titan.",
+    "title": "Titan Mining Simulator",
+    "summary": "A mining simulation game where you can explore and extract resources from Saturn's moon Titan.",
     "url": "https://nice-water-0b5927110.6.azurestaticapps.net/",
     "screenshot": "./screenshots/titan-mining-simulator.png",
     "repo": "https://github.com/PatAltimore/titan-sim"
+  },
+  {
+    "title": "Applesoft Basic Interpreter",
+    "summary": "Relive printing your name on the screen with an interpreter for the Applesoft BASIC programming language, allowing you to run simple text-based BASIC programs.",
+    "url": "https://ashy-wave-08690e81e.2.azurestaticapps.net/",
+    "screenshot": "./screenshots/applesoft-basic-interpreter.png",
+    "repo": "https://github.com/PatAltimore/applesoft-emulator"
   }
 ]
