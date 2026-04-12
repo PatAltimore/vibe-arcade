@@ -24,7 +24,7 @@
     "title": "Applesoft Basic Interpreter",
     "summary": "Relive printing your name on the screen with an interpreter for the Applesoft BASIC programming language, allowing you to run simple text-based BASIC programs.",
     "url": "https://ashy-wave-08690e81e.2.azurestaticapps.net/",
-    "screenshot": "./screenshots/applesoft-basic-interpreter.png",
+    "screenshot": "./screenshots/applesoft-interpreter.png",
     "repo": "https://github.com/PatAltimore/applesoft-emulator"
   }
 ]
