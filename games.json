@@ -26,5 +26,12 @@
     "url": "https://ashy-wave-08690e81e.2.azurestaticapps.net/",
     "screenshot": "./screenshots/applesoft-interpreter.png",
     "repo": "https://github.com/PatAltimore/applesoft-emulator"
+  },
+  {
+    "title": "Shared Countdown Timer",
+    "summary": "Ok. Not a game. But a shared countdown timer that you can use to have a synchronized countdown with your friends if you need to count down together.",
+    "url": "https://white-glacier-0ec07691e.2.azurestaticapps.net/",
+    "screenshot": "./screenshots/shared-countdown-timer.png",
+    "repo": "https://github.com/PatAltimore/synced-timer"
   }
 ]
