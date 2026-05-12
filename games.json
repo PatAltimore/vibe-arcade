@@ -14,6 +14,13 @@
     "repo": "https://github.com/PatAltimore/group-text-adventure"
   },
   {
+    "title": "Enhanced Classics",
+    "summary": "Classic public-domain books with AI-generated annotation cards based on Wikipedia articles. The enhanced sections include interesting related context like a documentary for a book.",
+    "url": "https://red-grass-08f946a1e.7.azurestaticapps.net/",
+    "screenshot": "./screenshots/enhanced-classics.png",
+    "repo": "https://github.com/PatAltimore/enhanced-classics"
+  },  
+  {
     "title": "Titan Mining Simulator",
     "summary": "A mining simulation game where you can explore and extract resources from Saturn's moon Titan.",
     "url": "https://nice-water-0b5927110.6.azurestaticapps.net/",
