@@ -1,5 +1,7 @@
 # vibe-arcade
-Website listing vibe coded games and apps
+Website listing vibe coded games and apps.
+
+[Vibe Arcade live site](https://wonderful-ocean-071bf501e.1.azurestaticapps.net/)
 
 ## Deploy To Azure Static Web Apps (Free)
 
