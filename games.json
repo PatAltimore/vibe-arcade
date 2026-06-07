@@ -7,6 +7,13 @@
     "repo": "https://github.com/PatAltimore/trpg-roguelike"
   },
   {
+    "title": "Karate Rhythm",
+    "summary": "A rhythm-based runner inspired by Karateka. Time your kicks to the beat of the music to defeat enemies.",
+    "url": "https://happy-mushroom-08d27c51e.7.azurestaticapps.net/",
+    "screenshot": "./screenshots/karate-rhythm.png",
+    "repo": "https://github.com/PatAltimore/karate-rhythm"
+  },
+  {
     "title": "Group Text Adventure",
     "summary": "A collaborative text-based adventure game where you and your friends can solve puzzles and progress through the story together.",
     "url": "https://textgtagame.z5.web.core.windows.net/",
