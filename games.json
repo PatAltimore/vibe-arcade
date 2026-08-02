@@ -1,10 +1,10 @@
 [
   {
-    "title": "Emblem Tactics",
-    "summary": "Fire emblem-inspired TRPG with roguelike elements. Each playthrough features procedurally generated maps.",
-    "url": "https://happy-ocean-09649ab10.6.azurestaticapps.net/",
-    "screenshot": "./screenshots/emblem-tactics.png",
-    "repo": "https://github.com/PatAltimore/trpg-roguelike"
+    "title": "Zork assist mode",
+    "summary": "Classic Zork text adventure with hints, maps, local save, and undo functionality.",
+    "url": "https://red-tree-0c4e1f210.7.azurestaticapps.net/",
+    "screenshot": "./screenshots/zork-assist-mode.png",
+    "repo": "https://github.com/PatAltimore/zork-assist-mode"
   },
   {
     "title": "Karate Rhythm",
@@ -12,6 +12,13 @@
     "url": "https://happy-mushroom-08d27c51e.7.azurestaticapps.net/",
     "screenshot": "./screenshots/karate-rhythm.png",
     "repo": "https://github.com/PatAltimore/karate-rhythm"
+  },
+  {
+    "title": "Emblem Tactics",
+    "summary": "Fire emblem-inspired TRPG with roguelike elements. Each playthrough features procedurally generated maps.",
+    "url": "https://happy-ocean-09649ab10.6.azurestaticapps.net/",
+    "screenshot": "./screenshots/emblem-tactics.png",
+    "repo": "https://github.com/PatAltimore/trpg-roguelike"
   },
   {
     "title": "Group Text Adventure",
