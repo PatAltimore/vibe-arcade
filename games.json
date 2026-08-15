@@ -7,6 +7,13 @@
     "repo": "https://github.com/PatAltimore/zork-assist-mode"
   },
   {
+    "title": "Wolfenstein 3D Assist Mode",
+    "summary": "Wolfenstein 3D with cheats, maps, and links to interesting code.",
+    "url": "https://ashy-forest-06f3c1f1e.7.azurestaticapps.net",
+    "screenshot": "./screenshots/wolf3d-assist.png",
+    "repo": "https://github.com/PatAltimore/wolf3d-assist"
+  },
+  {
     "title": "Karate Rhythm",
     "summary": "A rhythm-based runner inspired by Karateka. Time your kicks to the beat of the music to defeat enemies.",
     "url": "https://happy-mushroom-08d27c51e.7.azurestaticapps.net/",
