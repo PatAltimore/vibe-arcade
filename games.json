@@ -1,5 +1,12 @@
 [
   {
+    "title": "Prince of Persia Assist Mode",
+    "summary": "Apple II Prince of Persia game with hints, debug cheats, maps, local save, and gameplay rewind functionality.",
+    "url": "https://lively-sea-0ae2ef51e.7.azurestaticapps.net/",
+    "screenshot": "./screenshots/prince-of-persia-assist.png",
+    "repo": "https://github.com/PatAltimore/prince-of-persia-assist"
+  },
+  {
     "title": "Zork Assist Mode",
     "summary": "Classic Zork text adventure with hints, maps, local save, and undo functionality.",
     "url": "https://red-tree-0c4e1f210.7.azurestaticapps.net/",
