@@ -21,6 +21,13 @@
     "repo": "https://github.com/PatAltimore/wolf3d-assist"
   },
   {
+    "title": "DOOM Assist Mode",
+    "summary": "DOOM cheats and links to interesting code.",
+    "url": "https://black-bush-058f51c1e.7.azurestaticapps.net/",
+    "screenshot": "./screenshots/doom-assist.png",
+    "repo": "https://github.com/PatAltimore/doom-assist"
+  },
+  {
     "title": "Karate Rhythm",
     "summary": "A rhythm-based runner inspired by Karateka. Time your kicks to the beat of the music to defeat enemies.",
     "url": "https://happy-mushroom-08d27c51e.7.azurestaticapps.net/",
