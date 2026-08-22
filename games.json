@@ -22,7 +22,7 @@
   },
   {
     "title": "DOOM Assist Mode",
-    "summary": "DOOM cheats and links to interesting code.",
+    "summary": "DOOM cheats, hint map, and links to interesting code.",
     "url": "https://black-bush-058f51c1e.7.azurestaticapps.net/",
     "screenshot": "./screenshots/doom-assist.png",
     "repo": "https://github.com/PatAltimore/doom-assist"
