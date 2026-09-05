@@ -34,6 +34,13 @@
     "screenshot": "./screenshots/karate-rhythm.png",
     "repo": "https://github.com/PatAltimore/karate-rhythm"
   },
+ {
+    "title": "Apple II Rewind",
+    "summary": "Play Apple II games from the Total Replay image. Use the rewind buffer to jump back in gameplay. Save and load game states..",
+    "url": "https://red-island-06620351e.3.azurestaticapps.net",
+    "screenshot": "./screenshots/apple-ii-rewind.png",
+    "repo": "https://github.com/PatAltimore/apple-ii-rewind"
+  },
   {
     "title": "Emblem Tactics",
     "summary": "Fire emblem-inspired TRPG with roguelike elements. Each playthrough features procedurally generated maps.",
@@ -68,13 +75,6 @@
     "url": "https://nice-water-0b5927110.6.azurestaticapps.net/",
     "screenshot": "./screenshots/titan-mining-simulator.png",
     "repo": "https://github.com/PatAltimore/titan-sim"
-  },
-  {
-    "title": "Applesoft Basic Interpreter",
-    "summary": "Relive printing your name on the screen with an interpreter for the Applesoft BASIC programming language, allowing you to run simple text-based BASIC programs.",
-    "url": "https://ashy-wave-08690e81e.2.azurestaticapps.net/",
-    "screenshot": "./screenshots/applesoft-interpreter.png",
-    "repo": "https://github.com/PatAltimore/applesoft-emulator"
   },
   {
     "title": "Shared Countdown Timer",
