@@ -1,5 +1,26 @@
 [
   {
+    "title": "DOOM Assist Mode",
+    "summary": "DOOM cheats, hint map, and links to interesting code.",
+    "url": "https://black-bush-058f51c1e.7.azurestaticapps.net/",
+    "screenshot": "./screenshots/doom-assist.png",
+    "repo": "https://github.com/PatAltimore/doom-assist"
+  },
+  {
+    "title": "DOOM Speed Run",
+    "summary": "Speed-run DOOM levels as fast as possible. Compete for the best times and share with your friends.",
+    "url": "https://red-rock-05e6d231e.6.azurestaticapps.net",
+    "screenshot": "./screenshots/doom-speed-run.png",
+    "repo": "https://github.com/PatAltimore/doom-speed-run"
+  },
+  {
+    "title": "Wolfenstein 3D Assist Mode",
+    "summary": "Wolfenstein 3D with cheats, maps, and links to interesting code.",
+    "url": "https://ashy-forest-06f3c1f1e.7.azurestaticapps.net",
+    "screenshot": "./screenshots/wolf3d-assist.png",
+    "repo": "https://github.com/PatAltimore/wolf3d-assist"
+  },
+  {
     "title": "Prince of Persia Assist Mode",
     "summary": "Apple II Prince of Persia game with hints, debug cheats, maps, local save, and gameplay rewind functionality.",
     "url": "https://lively-sea-0ae2ef51e.7.azurestaticapps.net/",
@@ -14,20 +35,6 @@
     "repo": "https://github.com/PatAltimore/zork-assist-mode"
   },
   {
-    "title": "Wolfenstein 3D Assist Mode",
-    "summary": "Wolfenstein 3D with cheats, maps, and links to interesting code.",
-    "url": "https://ashy-forest-06f3c1f1e.7.azurestaticapps.net",
-    "screenshot": "./screenshots/wolf3d-assist.png",
-    "repo": "https://github.com/PatAltimore/wolf3d-assist"
-  },
-  {
-    "title": "DOOM Assist Mode",
-    "summary": "DOOM cheats, hint map, and links to interesting code.",
-    "url": "https://black-bush-058f51c1e.7.azurestaticapps.net/",
-    "screenshot": "./screenshots/doom-assist.png",
-    "repo": "https://github.com/PatAltimore/doom-assist"
-  },
-  {
     "title": "Karate Rhythm",
     "summary": "A rhythm-based runner inspired by Karateka. Time your kicks to the beat of the music to defeat enemies.",
     "url": "https://happy-mushroom-08d27c51e.7.azurestaticapps.net/",
@@ -36,7 +43,7 @@
   },
  {
     "title": "Apple II Rewind",
-    "summary": "Play Apple II games from the Total Replay image. Use the rewind buffer to jump back in gameplay. Save and load game states..",
+    "summary": "Play Apple II games from the Total Replay image. Use the rewind buffer to jump back in gameplay. Save and load game states.",
     "url": "https://red-island-06620351e.3.azurestaticapps.net",
     "screenshot": "./screenshots/apple-ii-rewind.png",
     "repo": "https://github.com/PatAltimore/apple-ii-rewind"
@@ -69,13 +76,6 @@
     "screenshot": "./screenshots/enhanced-classics.png",
     "repo": "https://github.com/PatAltimore/enhanced-classics"
   },  
-  {
-    "title": "Titan Mining Simulator",
-    "summary": "A mining simulation game where you can explore and extract resources from Saturn's moon Titan.",
-    "url": "https://nice-water-0b5927110.6.azurestaticapps.net/",
-    "screenshot": "./screenshots/titan-mining-simulator.png",
-    "repo": "https://github.com/PatAltimore/titan-sim"
-  },
   {
     "title": "Shared Countdown Timer",
     "summary": "Ok, not a game. A shared countdown timer for synchronized countdowns with all your friends.",
