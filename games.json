@@ -27,6 +27,13 @@
     "screenshot": "./screenshots/prince-of-persia-assist.png",
     "repo": "https://github.com/PatAltimore/prince-of-persia-assist"
   },
+ {
+    "title": "Apple II Rewind",
+    "summary": "Play Apple II games from the Total Replay image. Use the rewind buffer to jump back in gameplay. Save and load game states.",
+    "url": "https://red-island-06620351e.3.azurestaticapps.net",
+    "screenshot": "./screenshots/apple-ii-rewind.png",
+    "repo": "https://github.com/PatAltimore/apple-ii-rewind"
+  },
   {
     "title": "Zork Assist Mode",
     "summary": "Classic Zork text adventure with hints, maps, local save, and undo functionality.",
@@ -40,13 +47,6 @@
     "url": "https://happy-mushroom-08d27c51e.7.azurestaticapps.net/",
     "screenshot": "./screenshots/karate-rhythm.png",
     "repo": "https://github.com/PatAltimore/karate-rhythm"
-  },
- {
-    "title": "Apple II Rewind",
-    "summary": "Play Apple II games from the Total Replay image. Use the rewind buffer to jump back in gameplay. Save and load game states.",
-    "url": "https://red-island-06620351e.3.azurestaticapps.net",
-    "screenshot": "./screenshots/apple-ii-rewind.png",
-    "repo": "https://github.com/PatAltimore/apple-ii-rewind"
   },
   {
     "title": "Emblem Tactics",
@@ -75,6 +75,13 @@
     "url": "https://red-grass-08f946a1e.7.azurestaticapps.net/",
     "screenshot": "./screenshots/enhanced-classics.png",
     "repo": "https://github.com/PatAltimore/enhanced-classics"
+  },
+  {
+    "title": "Kanji Flashcards",
+    "summary": "Flashcards for learning Kanji characters.",
+    "url": "https://witty-bay-0778cea1e.7.azurestaticapps.net/",
+    "screenshot": "./screenshots/kanji-flashcards.png",
+    "repo": "https://github.com/PatAltimore/kanji-flash"
   },  
   {
     "title": "Shared Countdown Timer",
