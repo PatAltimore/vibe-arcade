@@ -86,7 +86,7 @@
   {
     "title": "Shared Countdown Timer",
     "summary": "Ok, not a game. A shared countdown timer for synchronized countdowns with all your friends.",
-    "url": "https://white-glacier-0ec07691e.2.azurestaticapps.net/",
+    "url": "https://pataltimore.github.io/synced-timer/",
     "screenshot": "./screenshots/shared-countdown-timer.png",
     "repo": "https://github.com/PatAltimore/synced-timer"
   }
