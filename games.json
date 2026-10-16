@@ -16,7 +16,7 @@
   {
     "title": "Wolfenstein 3D Assist Mode",
     "summary": "Wolfenstein 3D with cheats, maps, and links to interesting code.",
-    "url": "https://ashy-forest-06f3c1f1e.7.azurestaticapps.net",
+    "url": "https://pataltimore.github.io/wolf3d-assist/",
     "screenshot": "./screenshots/wolf3d-assist.png",
     "repo": "https://github.com/PatAltimore/wolf3d-assist"
   },
@@ -65,23 +65,23 @@
   {
     "title": "Code Museum",
     "summary": "Annotated source code from historically significant open-sourced programs. Read the code that changed computing.",
-    "url": "https://blue-rock-0e6a0831e.7.azurestaticapps.net/",
+    "url": "https://pataltimore.github.io/code-museum/",
     "screenshot": "./screenshots/code-museum.png",
     "repo": "https://github.com/PatAltimore/code-museum"
   },
   {
     "title": "Enhanced Classics",
     "summary": "Classic public-domain books with AI-generated annotation cards based on Wikipedia articles. The enhanced sections include interesting related context like a documentary for a book.",
-    "url": "https://red-grass-08f946a1e.7.azurestaticapps.net/",
+    "url": "https://pataltimore.github.io/enhanced-classics/",
     "screenshot": "./screenshots/enhanced-classics.png",
     "repo": "https://github.com/PatAltimore/enhanced-classics"
   },
   {
     "title": "Kanji Flashcards",
     "summary": "Flashcards for learning Kanji characters.",
-    "url": "https://witty-bay-0778cea1e.7.azurestaticapps.net/",
+    "url": "https://pataltimore.github.io/kanji-flashcards/",
     "screenshot": "./screenshots/kanji-flashcards.png",
-    "repo": "https://github.com/PatAltimore/kanji-flash"
+    "repo": "https://github.com/PatAltimore/kanji-flashcards"
   },
   {
     "title": "Shared Countdown Timer",
