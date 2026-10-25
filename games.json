@@ -91,6 +91,13 @@
     "repo": "https://github.com/PatAltimore/kanji-flashcards"
   },
   {
+    "title": "Cave Story Assist Mode",
+    "summary": "An assist mode for Cave Story that helps players learn Japanese. Also includes hints and rewind.",
+    "url": "https://pataltimore.github.io/cave-story-assist/",
+    "screenshot": "./screenshots/cave-story-assist.png",
+    "repo": "https://github.com/PatAltimore/cave-story-assist"
+  },
+  {
     "title": "Shared Countdown Timer",
     "summary": "Ok, not a game. A shared countdown timer for synchronized countdowns with all your friends.",
     "url": "https://pataltimore.github.io/synced-timer/",
