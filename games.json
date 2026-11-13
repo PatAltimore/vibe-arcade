@@ -1,5 +1,19 @@
 [
   {
+    "title": "Daily Pentomino Puzzle",
+    "summary": "Daily pentomino puzzles to solve.",
+    "url": "https://pataltimore.github.io/pentomino-daily/",
+    "screenshot": "./screenshots/pentomino-daily.png",
+    "repo": "https://github.com/PatAltimore/pentomino-daily"
+  },
+  {
+    "title": "Rogue Assist Mode",
+    "summary": "Rogue 3D views, cheats, map, and links to interesting code.",
+    "url": "https://pataltimore.github.io/rogue-assist/",
+    "screenshot": "./screenshots/rogue-assist.png",
+    "repo": "https://github.com/PatAltimore/rogue-assist"
+  },
+  {
     "title": "DOOM Assist Mode",
     "summary": "DOOM cheats, hint map, and links to interesting code.",
     "url": "https://black-bush-058f51c1e.7.azurestaticapps.net/",
