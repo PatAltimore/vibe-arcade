@@ -98,13 +98,6 @@
     "repo": "https://github.com/PatAltimore/enhanced-classics"
   },
   {
-    "title": "Kanji Flashcards",
-    "summary": "Flashcards for learning Kanji characters.",
-    "url": "https://pataltimore.github.io/kanji-flashcards/",
-    "screenshot": "./screenshots/kanji-flashcards.png",
-    "repo": "https://github.com/PatAltimore/kanji-flashcards"
-  },
-  {
     "title": "Cave Story Assist Mode",
     "summary": "An assist mode for Cave Story that helps players learn Japanese. Also includes hints and rewind.",
     "url": "https://pataltimore.github.io/cave-story-assist/",
