@@ -1,7 +1,7 @@
 [
   {
     "title": "Daily Pentomino Puzzle",
-    "summary": "Daily pentomino puzzles to solve.",
+    "summary": "Pentomino puzzles were Alexey Pajitnov's inpiration for Tetris. Solve daily pentomino puzzles of art and photos.",
     "url": "https://pataltimore.github.io/pentomino-daily/",
     "screenshot": "./screenshots/pentomino-daily.png",
     "repo": "https://github.com/PatAltimore/pentomino-daily"
@@ -97,6 +97,7 @@
     "screenshot": "./screenshots/enhanced-classics.png",
     "repo": "https://github.com/PatAltimore/enhanced-classics"
   },
+  
   {
     "title": "Cave Story Assist Mode",
     "summary": "An assist mode for Cave Story that helps players learn Japanese. Also includes hints and rewind.",
